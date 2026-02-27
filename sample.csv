@@ -1,0 +1,7 @@
+Gender:smoker, day_time, size
+Female|No, Sun, Dinner, 2
+Male, No|Sun:Dinner, 3
+Male, No:Sun, Dinner, 3
+Male|No, Sun_Dinner, 2
+Female_No, Sun, Dinner, 4
+Male, No:Sun, Dinner, 4
